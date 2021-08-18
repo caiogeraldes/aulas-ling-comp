@@ -93,4 +93,4 @@ A conversão dos sistemas é relativamente simples.
 
 ## Aula 1
 
-
+[Anotações](./20210818/LC_Pós_Python_1.ipynb).
