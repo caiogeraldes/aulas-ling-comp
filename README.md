@@ -5,7 +5,7 @@ Linguística oferecida pelo DL FFLCH-USP. Segundo semestre de 2021.
 
 Todas as anotações e código são de minha responsabilidade.
 
-## Introdução 
+## Introdução
 
 Aula de 2021-08-18
 
@@ -90,3 +90,7 @@ Os primeiro sistemas eram baseados em tabelas alinhadas, depois se incrementou o
 Sistemas baseados em regras de maneira escalonada (tokenização, etiquetamento etc) até sistemas integrados.
 Algumas regras podem ser pulados em um ML.
 A conversão dos sistemas é relativamente simples.
+
+## Aula 1
+
+
