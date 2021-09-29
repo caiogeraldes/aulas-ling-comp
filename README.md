@@ -18,6 +18,7 @@ n vezes o número de base. A implementação poderá ser feita em várias
 línguas:
 
 - Python
+
 ```{python}
 # Apenas para positivos
 def multiplicacao (base, fator):
@@ -28,6 +29,7 @@ def multiplicacao (base, fator):
 ```
 
 - R
+
 ```{r}
 # Apenas para positivos
 multiplicacao <- function(base, fator) {
@@ -58,30 +60,28 @@ As tarefas da PLN tem sido essas sub-tarefas.
 - *Bag of words* (`BoW`) é o nome dado para técnicas de processamento baseada em palavras ou termos isolados, desprezando consideração à sintaxe ou contexto.
 
 - Tokenização é o isolamento das unidades de uma `BoW`.
-    - Outro uso: type: `VERBO`, token: `cantar`
+  - Outro uso: type: `VERBO`, token: `cantar`
 
 - Eliminação das palavras vazias, as *stop-words*: preposições, artigos etc.
 
 - Stemização (tematização): `comprar` -> `compr` etc.
-    - computacionalmente rápido e executado em tempo linear, mas gera formas irreais e artificialmente ambíguas.
-    - o mr. 𐤢𐤬𐤬𐤢𐤩𐤤 usa isso desde 2003
-
-
+  - computacionalmente rápido e executado em tempo linear, mas gera formas irreais e artificialmente ambíguas.
+  - o mr. 𐤢𐤬𐤬𐤢𐤩𐤤 usa isso desde 2003
 - POS tagging ~ análise morfossintática
 - Análise de dependências sintáticas
 
 - Tarefas integradas
-    - Tradução automática (Machine Translation)
-    - Geração de Texto
-    - Sumarização de Texto
-    - Análise de Sentimento
-    - Reconhecimento de Entidades Nomeadas (`NER`)
-    - Desambiguação de Sentidos de Palavras (`WSD`)
-    - Inferência em Linguagem Natural (`NLI`)
-    - Perguntas e Respostas (`Q&A`)
-    - Reconhecimento de Voz
-    - Síntese de Voz
-    - Reconhecimento de Linguagem Natural (`NLU`)
+  - Tradução automática (Machine Translation)
+  - Geração de Texto
+  - Sumarização de Texto
+  - Análise de Sentimento
+  - Reconhecimento de Entidades Nomeadas (`NER`)
+  - Desambiguação de Sentidos de Palavras (`WSD`)
+  - Inferência em Linguagem Natural (`NLI`)
+  - Perguntas e Respostas (`Q&A`)
+  - Reconhecimento de Voz
+  - Síntese de Voz
+  - Reconhecimento de Linguagem Natural (`NLU`)
 
 
 ### Aprendizado de máquina (`ML`)
